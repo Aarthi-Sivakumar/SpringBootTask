@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: STOCK_AVAILABILITY
+      host: localhost
+
